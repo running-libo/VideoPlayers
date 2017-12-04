@@ -1,0 +1,206 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/jc_layout_base.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/layout/jc_layout_base.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/activity_jc_player.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/layout/activity_jc_player.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/activity_video_view.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/layout/activity_video_view.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/activity_vitamio_player.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/layout/activity_vitamio_player.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/jc_dialog_brightness.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/layout/jc_dialog_brightness.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/custom_videoplayer.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/layout/custom_videoplayer.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/jc_dialog_volume.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/layout/jc_dialog_volume.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/jc_dialog_progress.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/layout/jc_dialog_progress.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/activity_media_player.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/layout/activity_media_player.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/mediacontroller.xml",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/res/layout/mediacontroller.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/jc_layout_standard.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/layout/jc_layout_standard.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/layout/select_dialog_multichoice_material.xml"
+    }
+]

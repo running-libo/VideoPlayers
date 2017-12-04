@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_grow_fade_in_from_bottom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_popup_enter.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_popup_enter.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/start_fullscreen.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/anim/start_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_slide_out_top.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_slide_out_top.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/quit_fullscreen.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/res/anim/quit_fullscreen.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_shrink_fade_out_from_bottom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_fade_in.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_fade_in.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_popup_exit.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_popup_exit.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_fade_out.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_fade_out.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_slide_in_bottom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_slide_in_top.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_slide_in_top.xml"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/anim/abc_slide_out_bottom.xml",
+        "source": "/Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/res/anim/abc_slide_out_bottom.xml"
+    }
+]

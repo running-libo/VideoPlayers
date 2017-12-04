@@ -1,0 +1,140 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:3:5-39
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:5:5-67
+MERGED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:7:5-29:19
+MERGED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:15:5-22:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/goobird-iOS004/.android/build-cache/38c429290242a34d7d319083fa14485ef2e382e8/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/b450c5681ddec70fd3413c5f359f0196e5f1c78d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/d9b71a7d7c65c4a777069a6c675ecf8dd5c209a8/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/7615280aa1e754a7f3f57e4662f86be1075ce672/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/72c1377da2c2fbde232f9389ba65c00a154d9d86/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/64f55322b0ca5994ffb23a228dc4da99ff2bb93f/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/405c459ecc9df886f0e76aff29bab676e00d49e5/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/4c024ecc3fb2759009cac729404073388420d37f/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/4cdbe1ad8f2fc7797cb321a6f9515bc5419504ce/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:13:9-40
+activity#com.example.videoplayers.MainActivity
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:14:9-20:20
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:14:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:18:27-74
+activity#com.example.videoplayers.videoview.VideoViewActivity
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:21:9-65
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:21:19-62
+activity#com.example.videoplayers.mediaplayer.MediaPlayerActivity
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:22:9-69
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:22:19-66
+receiver#com.example.videoplayers.mediaplayer.PlayVideo$ProgressBroadCast
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:24:9-77
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:24:19-74
+activity#com.example.videoplayers.vitamioplayer.VitamioPlayerActivity
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:26:9-73
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:26:19-70
+activity#com.example.videoplayers.jcplayer.JcPlayerActivity
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:27:9-63
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:27:19-60
+activity#com.example.videoplayers.ijkplayer.IjkPlayerActivity
+ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:28:9-74
+	android:name
+		ADDED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml:28:19-62
+uses-sdk
+INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /Users/goobird-iOS004/.android/build-cache/38c429290242a34d7d319083fa14485ef2e382e8/output/AndroidManifest.xml:5:5-7:41
+MERGED from [fm.jiecao:jiecaovideoplayer:5.5.4] /Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/b450c5681ddec70fd3413c5f359f0196e5f1c78d/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/d9b71a7d7c65c4a777069a6c675ecf8dd5c209a8/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/7615280aa1e754a7f3f57e4662f86be1075ce672/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/72c1377da2c2fbde232f9389ba65c00a154d9d86/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/64f55322b0ca5994ffb23a228dc4da99ff2bb93f/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/405c459ecc9df886f0e76aff29bab676e00d49e5/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/4c024ecc3fb2759009cac729404073388420d37f/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/4cdbe1ad8f2fc7797cb321a6f9515bc5419504ce/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:11:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:13:5-79
+MERGED from [fm.jiecao:jiecaovideoplayer:5.5.4] /Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:13:22-76
+activity#io.vov.vitamio.activity.InitActivity
+ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:16:9-21:63
+	android:launchMode
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:19:13-43
+	android:windowSoftInputMode
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:21:13-60
+	android:configChanges
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:18:13-113
+	android:theme
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:20:13-60
+	android:name
+		ADDED from [VideoPlayers:vitamio:unspecified] /Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/AndroidManifest.xml:17:13-64
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-v4:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/b450c5681ddec70fd3413c5f359f0196e5f1c78d/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-media-compat:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/d9b71a7d7c65c4a777069a6c675ecf8dd5c209a8/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-fragment:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/7615280aa1e754a7f3f57e4662f86be1075ce672/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-ui:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/72c1377da2c2fbde232f9389ba65c00a154d9d86/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:support-core-utils:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/64f55322b0ca5994ffb23a228dc4da99ff2bb93f/output/AndroidManifest.xml:25:5-27:41
+MERGED from [com.android.support:animated-vector-drawable:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/405c459ecc9df886f0e76aff29bab676e00d49e5/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-vector-drawable:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/4c024ecc3fb2759009cac729404073388420d37f/output/AndroidManifest.xml:22:5-24:41
+MERGED from [com.android.support:support-compat:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/4cdbe1ad8f2fc7797cb321a6f9515bc5419504ce/output/AndroidManifest.xml:25:5-27:41
+	android:value
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/AndroidManifest.xml:27:9-38
+	android:name
+		ADDED from [com.android.support:appcompat-v7:26.0.0-alpha1] /Users/goobird-iOS004/.android/build-cache/71b96e1d5d235c05ef208d255cbd9cc84d559838/output/AndroidManifest.xml:26:9-47

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher_round.png",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    }
+]

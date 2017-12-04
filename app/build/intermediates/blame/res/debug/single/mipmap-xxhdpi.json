@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher.png",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/video_btn_pause.png",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/mipmap-xxhdpi/video_btn_pause.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/video_btn_start.png",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/mipmap-xxhdpi/video_btn_start.png"
+    },
+    {
+        "merged": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/res/merged/debug/mipmap-xxhdpi/ic_launcher_round.png",
+        "source": "/Users/goobird-iOS004/Desktop/VideoPlayers/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    }
+]

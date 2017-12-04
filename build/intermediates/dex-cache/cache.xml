@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/goobird-iOS004/.android/build-cache/c4053e8b388180cf8020acf142530258b3351248/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="48d80375826ad08ec8fd39a4415186371a268341">
+        <dex dex="/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/pre-dexed/debug/classes_8697d5d1e0145bf124e606cfa812b2048fbdf057.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/goobird-iOS004/Desktop/VideoPlayers/vitamio/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f158bce9b52ca1f23796765d26584004306a5230">
+        <dex dex="/Users/goobird-iOS004/Desktop/VideoPlayers/app/build/intermediates/pre-dexed/debug/classes_e354d51cf60de0c9fc7dc0271cd52ca96452a10b.jar" />
+    </item>
+
+</items>

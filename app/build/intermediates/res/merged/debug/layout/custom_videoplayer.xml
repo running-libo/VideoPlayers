@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <SurfaceView
+        android:id="@+id/surfaceview"
+        android:layout_width="match_parent"
+        android:layout_height="220dp" />
+
+    <LinearLayout
+        android:id="@+id/ll_video_loading"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:gravity="center_vertical"
+        android:visibility="gone">
+
+        <ProgressBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="LOADING ..."
+            android:textSize="16sp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ff009688"/>
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/iv_videoplayer_cover"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"/>
+
+    <LinearLayout
+        android:id="@+id/rela_video"
+        android:layout_width="match_parent"
+        android:layout_height="45dp"
+        android:background="#7000"
+        android:focusable="true"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:layout_alignBottom="@id/surfaceview">
+
+        <Button
+            android:id="@+id/btn_play"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:background="@mipmap/video_btn_start"/>
+
+        <SeekBar
+            android:id="@+id/play_seekbar"
+            android:layout_toRightOf="@id/btn_play"
+            android:layout_centerVertical="true"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="wrap_content"
+            android:maxHeight="4dp"
+            android:minHeight="4dp"
+            style="?android:attr/progressBarStyleHorizontal"
+            android:progressDrawable="@drawable/progressbar_style"/>
+
+        <TextView
+            android:id="@+id/tv_video_time"
+            android:layout_width="70dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="right|center_vertical"
+            android:layout_marginRight="5dp"
+            android:textSize="11sp"
+            android:textColor="@color/white"/>
+    </LinearLayout>
+
+</RelativeLayout>
